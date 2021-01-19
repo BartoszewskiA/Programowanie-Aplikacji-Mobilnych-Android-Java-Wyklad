@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">APP</string>
+    <string name="powitanie">Hello World</string>
+    <string name="inne_powitanie">Hello!</string>
+    <string name="opis_przycisku">Change text</string>
+
+    <string-array name="powitania">
+        <item>Cześć</item>
+        <item>Witaj</item>
+        <item>Siema</item>
+        <item>Dzień Dobry</item>
+        <item>Witam</item>
+    </string-array>
+</resources>

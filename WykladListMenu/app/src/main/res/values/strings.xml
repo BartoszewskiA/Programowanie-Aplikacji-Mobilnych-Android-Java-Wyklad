@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">WykladListMenu</string>
+    <string-array name="trescListy">
+        <item>Pozycja 1</item>
+        <item>Pozycja 2</item>
+        <item>Pozycja 3</item>
+        <item>Pozycja 4</item>
+        <item>Pozycja 5</item>
+    </string-array>
+</resources>

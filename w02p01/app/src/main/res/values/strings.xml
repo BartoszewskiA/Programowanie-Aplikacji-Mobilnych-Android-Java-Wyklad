@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My second app</string>
+    <string name="tekst">Test string</string>
+    <string-array name="tab">
+        <item>"pozycja 1</item>
+        <item>"pozycja 2</item>
+        <item>"pozycja 3</item>
+        <item>"pozycja 4</item>
+    </string-array>
+
+</resources>

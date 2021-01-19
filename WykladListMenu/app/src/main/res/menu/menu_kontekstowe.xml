@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/kon01"
+        android:title="Menu kontekstowe 01"
+        />
+    <item
+        android:id="@+id/kon02"
+        android:title="Menu kontekstowe 02"
+        />
+    <item
+        android:id="@+id/kon03"
+        android:title="Menu kontekstowe 03"
+        />
+
+</menu>

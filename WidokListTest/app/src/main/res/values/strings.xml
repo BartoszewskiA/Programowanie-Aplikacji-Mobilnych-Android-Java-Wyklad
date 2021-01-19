@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">WidokListTest</string>
+
+    <string-array name="Lista">
+        <item>Pozycja 1</item>
+        <item>Pozycja 2</item>
+        <item>Pozycja 3</item>
+        <item>Pozycja 4</item>
+        <item>Pozycja 5</item>
+    </string-array>
+</resources>

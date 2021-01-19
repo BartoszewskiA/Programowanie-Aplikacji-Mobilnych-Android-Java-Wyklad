@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item
+    android:id="@+id/poz01"
+    android:title="Pozycja 1 z menu"
+    />
+    <item
+        android:id="@+id/poz02"
+        android:title="Pozycja 2 z menu"
+        />
+    <item
+        android:id="@+id/poz03"
+        android:title="Pozycja 3 z menu"
+        android:enabled="false"
+        />
+    <item
+        android:id="@+id/poz04"
+        android:title="Pozycja 4 z menu"
+        android:checkable="true"
+        android:checked="true"
+        />
+</menu>

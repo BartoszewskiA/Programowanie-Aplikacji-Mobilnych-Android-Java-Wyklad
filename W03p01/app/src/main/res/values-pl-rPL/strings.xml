@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Apka</string>
+    <string name="powitanie">Witaj świecie</string>
+    <string name="inne_powitanie">Cześć!</string>
+    <string name="opis_przycisku">Zmień tekst</string>
+</resources>
